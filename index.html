@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Loose Threads</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="page">
+
+  <header class="masthead">
+    <span class="eyebrow">Essays</span>
+    <h1 id="site-title">Loose Threads</h1>
+    <p class="tagline" id="site-tagline">Notes on thinking clearly, written slowly.</p>
+  </header>
+
+  <ul class="post-list" id="post-list"></ul>
+
+  <footer class="site-footer">
+    <span id="footer-text"></span>
+  </footer>
+
+</div>
+
+<script src="posts.js"></script>
+<script src="app.js"></script>
+<script>
+  document.getElementById("site-title").textContent = SITE_TITLE;
+  document.getElementById("site-tagline").textContent = SITE_TAGLINE;
+  document.title = SITE_TITLE;
+  document.getElementById("footer-text").textContent = SITE_TITLE + " — " + new Date().getFullYear();
+
+  const list = document.getElementById("post-list");
+
+  if (POSTS.length === 0) {
+    const li = document.createElement("li");
+    li.className = "empty-state";
+    li.textContent = "Nothing here yet. Open posts.js and write the first one.";
+    list.appendChild(li);
+  } else {
+    POSTS.forEach((post) => {
+      const li = document.createElement("li");
+      li.className = "post-entry";
+      li.innerHTML = `
+        <span class="date">${formatDate(post.date)}</span>
+        <h2><a href="post.html?slug=${encodeURIComponent(post.slug)}">${post.title}</a></h2>
+        <p class="excerpt">${excerpt(post.content)}</p>
+      `;
+      list.appendChild(li);
+    });
+  }
+</script>
+
+</body>
+</html>

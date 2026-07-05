@@ -1,0 +1,252 @@
+/* ============================================================
+   A quiet place to think.
+   Palette: fog-stone background, deep forest ink, dusted moss accent.
+   ============================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,500&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap');
+
+:root {
+  --bg: #EEF0EA;
+  --ink: #202B22;
+  --ink-soft: #57624F;
+  --accent: #7C8F63;
+  --line: #D7DACC;
+  --max-width: 640px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: 'Source Serif 4', Georgia, serif;
+  font-size: 19px;
+  line-height: 1.75;
+  min-height: 100vh;
+}
+
+/* Respect reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    transition: none !important;
+    animation: none !important;
+  }
+}
+
+.page {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 96px 24px 120px;
+}
+
+/* -------------------- Masthead -------------------- */
+
+.masthead {
+  margin-bottom: 88px;
+}
+
+.masthead .eyebrow {
+  display: block;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 12px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+  margin-bottom: 14px;
+}
+
+.masthead h1 {
+  font-family: 'Fraunces', serif;
+  font-weight: 300;
+  font-optical-sizing: auto;
+  font-size: 40px;
+  line-height: 1.15;
+  margin: 0;
+  color: var(--ink);
+}
+
+.masthead a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.masthead .tagline {
+  margin-top: 16px;
+  color: var(--ink-soft);
+  font-style: italic;
+  font-size: 17px;
+  max-width: 46ch;
+}
+
+/* -------------------- Post list -------------------- */
+
+.post-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.post-entry {
+  padding: 40px 0;
+  border-top: 1px solid var(--line);
+  transition: border-color 0.4s ease;
+}
+
+.post-entry:hover {
+  border-color: var(--accent);
+}
+
+.post-entry:last-child {
+  border-bottom: 1px solid var(--line);
+}
+
+.post-entry .date {
+  display: block;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 12px;
+  letter-spacing: 0.06em;
+  color: var(--ink-soft);
+  margin-bottom: 10px;
+}
+
+.post-entry h2 {
+  font-family: 'Fraunces', serif;
+  font-weight: 400;
+  font-size: 26px;
+  margin: 0 0 10px;
+}
+
+.post-entry h2 a {
+  color: var(--ink);
+  text-decoration: none;
+  background-image: linear-gradient(var(--accent), var(--accent));
+  background-repeat: no-repeat;
+  background-position: 0 100%;
+  background-size: 0% 1px;
+  transition: background-size 0.3s ease;
+}
+
+.post-entry h2 a:hover {
+  background-size: 100% 1px;
+}
+
+.post-entry .excerpt {
+  color: var(--ink-soft);
+  font-size: 17px;
+  margin: 0;
+}
+
+.empty-state {
+  padding: 40px 0;
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  color: var(--ink-soft);
+  font-style: italic;
+}
+
+/* -------------------- Single essay -------------------- */
+
+.back-link {
+  display: inline-block;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 12px;
+  letter-spacing: 0.06em;
+  color: var(--ink-soft);
+  text-decoration: none;
+  margin-bottom: 56px;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.3s ease, color 0.3s ease;
+}
+
+.back-link:hover {
+  color: var(--ink);
+  border-color: var(--accent);
+}
+
+.essay .date {
+  display: block;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 12px;
+  letter-spacing: 0.06em;
+  color: var(--ink-soft);
+  margin-bottom: 16px;
+}
+
+.essay h1 {
+  font-family: 'Fraunces', serif;
+  font-weight: 300;
+  font-size: 38px;
+  line-height: 1.2;
+  margin: 0 0 48px;
+}
+
+.essay .content p {
+  margin: 0 0 28px;
+}
+
+.essay .content blockquote {
+  margin: 40px 0;
+  padding-left: 22px;
+  border-left: 2px solid var(--accent);
+  color: var(--ink-soft);
+  font-style: italic;
+}
+
+.essay .content h2 {
+  font-family: 'Fraunces', serif;
+  font-weight: 400;
+  font-size: 24px;
+  margin: 48px 0 20px;
+}
+
+.essay .content em {
+  color: var(--ink);
+}
+
+.essay-end {
+  margin-top: 64px;
+  padding-top: 32px;
+  border-top: 1px solid var(--line);
+}
+
+/* -------------------- Footer -------------------- */
+
+.site-footer {
+  margin-top: 96px;
+  padding-top: 24px;
+  border-top: 1px solid var(--line);
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 12px;
+  color: var(--ink-soft);
+}
+
+/* -------------------- Responsive -------------------- */
+
+@media (max-width: 480px) {
+  .page {
+    padding: 64px 20px 80px;
+  }
+  .masthead h1 {
+    font-size: 32px;
+  }
+  .essay h1 {
+    font-size: 30px;
+  }
+  body {
+    font-size: 18px;
+  }
+}
+
+/* -------------------- Focus states -------------------- */
+
+a:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+}

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Loose Threads</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="page">
+
+  <a class="back-link" href="index.html">&larr; All essays</a>
+
+  <article class="essay" id="essay">
+    <!-- filled in by app.js -->
+  </article>
+
+  <footer class="site-footer">
+    <span id="footer-text"></span>
+  </footer>
+
+</div>
+
+<script src="posts.js"></script>
+<script src="app.js"></script>
+<script>
+  document.getElementById("footer-text").textContent = SITE_TITLE + " — " + new Date().getFullYear();
+
+  const slug = getQueryParam("slug");
+  const post = POSTS.find((p) => p.slug === slug);
+  const container = document.getElementById("essay");
+
+  if (!post) {
+    container.innerHTML = `
+      <h1>Not found</h1>
+      <p class="content">This essay doesn't exist, or its slug in the link doesn't match posts.js. <a href="index.html">Go back</a>.</p>
+    `;
+    document.title = "Not found — " + SITE_TITLE;
+  } else {
+    container.innerHTML = `
+      <span class="date">${formatDate(post.date)}</span>
+      <h1>${post.title}</h1>
+      <div class="content">${renderContent(post.content)}</div>
+      <div class="essay-end"><a class="back-link" href="index.html">&larr; All essays</a></div>
+    `;
+    document.title = post.title + " — " + SITE_TITLE;
+  }
+</script>
+
+</body>
+</html>
