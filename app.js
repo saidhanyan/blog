@@ -1,8 +1,8 @@
 // Shared helpers used by both index.html and post.html.
 // You shouldn't need to touch this file — see posts.js to write.
 
-const SITE_TITLE = "Loose Threads";
-const SITE_TAGLINE = "Notes on thinking clearly, written slowly.";
+const SITE_TITLE = "முறாதி";
+const SITE_TAGLINE = "\"Truth towards self\" is my philosophy.";
 
 function formatDate(iso) {
   const [y, m, d] = iso.split("-").map(Number);
