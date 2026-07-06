@@ -3,7 +3,7 @@
    Palette: fog-stone background, deep forest ink, dusted moss accent.
    ============================================================ */
 
-@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,500&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,500;0,7..72,600;1,7..72,400&family=IBM+Plex+Mono:wght@400;500&display=swap');
 
 :root {
   --bg: #EEF0EA;
@@ -26,7 +26,7 @@ body {
   margin: 0;
   background: var(--bg);
   color: var(--ink);
-  font-family: 'Source Serif 4', Georgia, serif;
+  font-family: 'Literata', Georgia, serif;
   font-size: 19px;
   line-height: 1.75;
   min-height: 100vh;
@@ -63,7 +63,7 @@ body {
 }
 
 .masthead h1 {
-  font-family: 'Fraunces', serif;
+  font-family: 'Literata', Georgia, serif;
   font-weight: 300;
   font-optical-sizing: auto;
   font-size: 40px;
@@ -117,7 +117,7 @@ body {
 }
 
 .post-entry h2 {
-  font-family: 'Fraunces', serif;
+  font-family: 'Literata', Georgia, serif;
   font-weight: 400;
   font-size: 26px;
   margin: 0 0 10px;
@@ -180,10 +180,10 @@ body {
 }
 
 .essay h1 {
-  font-family: 'Fraunces', serif;
-  font-weight: 300;
-  font-size: 38px;
-  line-height: 1.2;
+  font-family: 'Literata', Georgia, serif;
+  font-weight: 400;
+  font-size: 34px;
+  line-height: 1.3;
   margin: 0 0 48px;
 }
 
@@ -200,7 +200,7 @@ body {
 }
 
 .essay .content h2 {
-  font-family: 'Fraunces', serif;
+  font-family: 'Literata', Georgia, serif;
   font-weight: 400;
   font-size: 24px;
   margin: 48px 0 20px;
