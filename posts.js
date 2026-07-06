@@ -27,21 +27,6 @@ const POSTS = [
 
   // ---------- NEW POSTS GO HERE ----------
 
-  {
-    slug: "on-starting-empty",
-    title: "On Starting Empty",
-    date: "2026-07-05",
-    content: `
-This is your first post. You can edit or delete it — it's only here to show you how the pieces fit together.
-
-Everything on this page lives in one file: posts.js. There is no database, no admin panel, no login screen. When you want to publish something new, you open this file, copy one entry, and write.
-
-> A blank page is not empty. It is just quiet.
-
-That's really the whole idea behind this site. One column, one voice, nothing competing for attention. Delete this post whenever you're ready to replace it with your own first thought.
-`
-  },
-
    {
       slug: "smoke-and-mirrors-of-the-self",
       title: "Smoke & Mirrors of the Self",
