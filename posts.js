@@ -36,7 +36,7 @@ const POSTS = [
 
 Carrying and maintaining a synthesized image comes with a cost of **peace** and **expression** because behind the image, you will be a different person than the one your image says that you are. So, **you can't say things you want to say** and **you can't act like you want to act**, that is where expression is cut off and whenever expression is cut off, peace is cut off too. 
 
-You can see this in all scales. On a personal scale, lack of expression can take forms as anxiety and depression and on a societal scale, it can take forms as protests and revolutions, historically speaking.
+You can see this in all scales. On a personal scale, lack of expression can take forms such as anxiety and depression and on a societal scale, it can take forms such as protests and revolutions, historically speaking.
 
 So, what is with the title **"Smoke & Mirrors of the Self"**?
 
@@ -60,7 +60,7 @@ But her reply was "How can I be angry, son? I'm just scared if you'd derail in l
 
 ## THE CAUTION
 
-And that's how confession has helped me. In my case, I knew I had a parent who would listen to me and not judge me, so I chose to confess to them. This might not be the case for everyone, so make sure you assess the person before confessing to them. 
+And that's how confession has helped me. In my case, I knew I had a parent who would listen to me and not judge me, so I chose to confess to them. This might not be the case for everyone, **so make sure you assess the person before confessing to them**. 
 
 For example, say that my mom reacted differently to it out of anger, then it would have become problem plus one for me from then on, whenever she sees me, I'll feel more guilt than I did before. 
 
@@ -68,7 +68,7 @@ For example, say that my mom reacted differently to it out of anger, then it wou
 
 ## EXTRA
 
-Smoke + Mirrors is an album by **Imagine Dragons** whose title song is "Smoke and Mirrors". This song perfectly captures one's inner turmoil when they are suffering with their images. I'll just drop the song's chorus here, you can listen to the song to get the feel.
+Smoke + Mirrors is an album by **Imagine Dragons** whose title song is **"Smoke and Mirrors"**. This song perfectly captures one's inner turmoil when they are suffering with their images. I'll just drop the song's chorus here, you can listen to the song to get the feel.
 
 ## Chorus:
 
