@@ -54,7 +54,7 @@ It was there for a few weeks, then one day I said to myself that it's enough, ca
 
 But her reply was "How can I be angry, son? I'm just scared if you'd derail in life... You just have to change yourselves and don't worry, we are by your side". That's when I dropped tonnes of weight off me and felt like a feather. Specially because I didn't have to maintain an artificial image anymore and that one of the most important people in my life know me as I am and still loves me.
 
->And that's how confession helped me. In my case, I knew I had a parent who will listen to me and not judge me, so I chose to confess to them. This might not be the case for everyone, so make sure you assess the person before confessing to them. 
+> And that's how confession helped me. In my case, I knew I had a parent who will listen to me and not judge me, so I chose to confess to them. This might not be the case for everyone, so make sure you assess the person before confessing to them. 
 
 `
    },
