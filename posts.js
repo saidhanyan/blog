@@ -32,7 +32,7 @@ const POSTS = [
       title: "Smoke & Mirrors of the Self",
       date: "2026-07-06",
       content: `
-**Confession** is by far one of the best relievers I've experienced in life. I'd define it as **"an act of relieving yourself from carrying and maintaining a synthesized image that even in the best cases a partially true image"**.
+**Confession** is by far one of the best relievers I've experienced in life. I'd define it as **"an act of relieving yourself from carrying and maintaining a synthesized image that, even in the best cases, is a partially true image"**.
 
 Carrying and maintaining a synthesized image comes with a cost of **peace** and **expression** because behind the image, you will be a different person than the one your image says that you are. So, **you can't say things you want to say** and **you can't act like you want to act**, that is where expression is cut off and whenever expression is cut off, peace is cut off too. 
 
