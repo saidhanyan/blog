@@ -58,7 +58,7 @@ It was there for a few weeks, then one day I said to myself that it's enough, ca
 
 But her reply was "How can I be angry, son? I'm just scared if you'd derail in life... You just have to change yourself and don't worry, we are by your side". That's when I dropped tonnes of weight off me and felt like a feather. Especially because I didn't have to maintain an artificial image anymore and that one of the most important people in my life knows me as I am and still loves me.
 
-This is one example that really does a lot of damage to the self. But images comes in all sizes, there are trivial ones too. The ones that we maintain in work relationship, the subtle ones that we maintain with friends, etc.. Relatively they do less damage and sometimes they are being a necessity too. In my opinion, regardless the degree of the image we maintain, it needs overseeing.
+This is one example that really does a lot of damage to the self. **But images comes in all sizes, there are trivial ones too**. The ones that we maintain in work relationship, the subtle ones that we maintain with friends, etc.. **Relatively they do less damage and sometimes they are being a necessity too**. In my opinion, **regardless the degree of the image we maintain, it needs overseeing**.
 
 ## THE CAUTION
 
