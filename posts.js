@@ -64,23 +64,23 @@ And that's how confession has helped me. In my case, I knew I had a parent who w
 
 ## ASSESS A PERSON? HOW?
 
-One of the draft readers for this essay asked me **"You say, assess a person, but how do I do it?"**. At the top of my mind, I didn't know the answer to it. 
+One of the draft readers for this essay asked me **"You say assess a person but how do I do it?"**. At the top of my mind, I didn't know the answer to it. 
 
 It's hard. Nobody is consciously assessing other people unless and until they are expecting a serious relationship between them (or are we?). So, I tried to work backward to reason why my mom seemed so credible to confess to in order to find the answers to that question. And, for myself, these came out to be the answers, for another person, the answers can be different:
 
-Unless and until, a person had spent a lot of time with another person, they cannot have a proper assessment about the other person.
+*Unless and until, a person had spent a lot of time with another person, they cannot have a proper assessment about the other person.*
 
-Unless and until, a person has experienced a variety of emotions with another person, they cannot have a proper assessment about the person.
+*Unless and until, a person has experienced a variety of emotions with another person, they cannot have a proper assessment about the person.*
 
-So, maybe we can have these as thumb rules to see if we have an assessment about some people we know in life. So, if I feel the need to confess to someone, I would ask myself..
+So, maybe we can have these as *thumb rules* to see if we have an assessment about some people we know in life. So, if I feel the need to confess to someone, I would ask myself..
 
-1. Had I spent a lot of time with them?
+**1. Had I spent a lot of time with them?**
 I lived almost my entire life with my mom, it's only for college I was away from home. Generally put, she is one of the people with whom I had spent a lot of time.
 
-2. Had I experienced a variety of emotions with them? 
+**2. Had I experienced a variety of emotions with them?** 
 Since she is family, like any family, we went through all kinds of hardships and times of happiness together. So I was able to see her react to situations all throughout my life and based on that, I know she will listen to me.
 
-And throughout that much time and companionship, if they had proved to be credible and liable to me, I would go on to confess.
+And throughout that much time and companionship, if they had proved to be credible to me, I would go on to confess.
 
 These are my filters, if you spend some time thinking what could be those filters for you, you will definitely have some.
 
