@@ -62,7 +62,7 @@ And that's how confession has helped me. In my case, I knew I had a parent who w
 
 **The goal is to reduce the chaos within**, for which you are going to rely on another person, if doing that is going to introduce chaos without, you will still get the part relief of confession but at the cost of a morphed relationship with the person you have confessed to and the chaos that it causes.
 
-## Assess a person? how?
+## ASSESS A PERSON? HOW?
 
 One of the draft readers for this essay asked me **"You say, assess a person, but how do I do it?"**. At the top of my mind, I didn't know the answer to it. 
 
