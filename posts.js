@@ -68,9 +68,9 @@ One of the draft readers for this essay asked me **"You say assess a person but 
 
 It's hard. Nobody is consciously assessing other people unless and until they are expecting a serious relationship between them (or are we?). So, I tried to work backward to reason why my mom seemed so credible to confess to in order to find the answers to that question. And, for myself, these came out to be the answers, for another person, the answers can be different:
 
-*Unless and until, a person had spent a lot of time with another person, they cannot have a proper assessment about the other person.*
+> Unless and until a person had spent a lot of time with another person, they cannot have a proper assessment about the other person.
 
-*Unless and until, a person has experienced a variety of emotions with another person, they cannot have a proper assessment about the person.*
+> Unless and until a person has experienced a variety of emotions with another person, they cannot have a proper assessment about the person.
 
 So, maybe we can have these as *thumb rules* to see if we have an assessment about some people we know in life. So, if I feel the need to confess to someone, I would ask myself..
 
@@ -88,7 +88,7 @@ Then, if you apply those filters and hit search, the results will show you some 
 
 ## EXTRA
 
-Smoke + Mirrors is an album by **Imagine Dragons** whose title song is "Smoke and Mirrors". This song perfectly captures one's inner turmoil when they are suffering with their images. I'll just drop the song's chorus here, you can listen to the song to get the feel.
+Smoke + Mirrors is an album by **Imagine Dragons** whose title song is **"Smoke and Mirrors"**. This song perfectly captures one's inner turmoil when they are suffering with their images. I'll just drop the song's chorus here, you can listen to the song to get the feel.
 
 ## Chorus:
 
