@@ -66,11 +66,11 @@ And that's how confession has helped me. In my case, I knew I had a parent who w
 
 One of the draft readers for this essay asked me, **"You say assess a person but how do I do it?"**. At the top of my mind, I didn't know the answer to it. 
 
-It's hard. Nobody is consciously assessing other people unless and until they are expecting a serious relationship between them (or are we?). So, I tried to work backward to reason why my mom seemed so credible to confess to in order to find the answers to that question. And, for myself, these came out to be the answers; for another person, the answers can be different:
+It's hard. Nobody is consciously assessing other people unless and until they are expecting a serious relationship between them (or are we?). So, I tried to work backward to reason why my mom seemed so credible to confess to in order to find the answers to that question. And, for myself, these came out to be the answers; for another person, the answers can be different. My answers: 
 
-> Unless and until a person has spent a lot of time with another person, they cannot have a proper assessment of the other person.
+**1.** Unless and until a person has spent a lot of time with another person, they cannot have a proper assessment of the other person.
 
-> Unless and until a person has experienced a variety of emotions with another person, they cannot have a proper assessment of the person.
+**2.** Unless and until a person has experienced a variety of emotions with another person, they cannot have a proper assessment of the person.
 
 So, maybe we can have these as *thumb rules* to see if we have an assessment about some people we know in life. So, if I feel the need to confess to someone, I would ask myself..
 
@@ -82,7 +82,7 @@ Since she is family, like any family, we went through all kinds of hardships and
 
 And throughout that much time and companionship, if they had proved to be credible to me, I would go on to confess.
 
-These are my filters, if you spend some time thinking about what those filters could be for you, you will definitely have some.
+These are my filters. If you spend some time thinking about what those filters could be for you, you will definitely have some.
 
 Then, if you apply those filters and hit search, the results will show you some people in your life and if not, I think that's when people resort to Reddit's r/confession subreddits, *absolutely no pun intended*, you can see for yourself the number of people confessing online.
 
