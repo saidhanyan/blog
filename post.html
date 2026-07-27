@@ -3,12 +3,15 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>TBD</title>
+<title>Logueum</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
 <div class="page">
+
+  <div class="top-mark" aria-hidden="true">&#9679;</div>
+  <div class="top-motto">ஆதியே துணை</div>
 
   <a class="back-link" href="index.html">&larr; All essays</a>
 
@@ -38,11 +41,20 @@
     `;
     document.title = "Not found — " + SITE_TITLE;
   } else {
+    const readers = post.draftReaders || DEFAULT_DRAFT_READERS;
+    const readersLine = readers && readers.length
+      ? `<p class="draft-thanks">Thanks to ${formatNameList(readers)} for reading the drafts of this one.</p>`
+      : "";
+
     container.innerHTML = `
       <span class="date">${formatDate(post.date)}</span>
       <h1>${post.title}</h1>
       <div class="content">${renderContent(post.content)}</div>
-      <div class="essay-end"><a class="back-link" href="index.html">&larr; All essays</a></div>
+      <div class="essay-end">
+        ${readersLine}
+        <p class="thanks">Thank you for spending this time with these words.</p>
+        <a class="back-link" href="index.html">&larr; All essays</a>
+      </div>
     `;
     document.title = post.title + " — " + SITE_TITLE;
   }

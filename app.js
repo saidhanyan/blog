@@ -1,8 +1,20 @@
 // Shared helpers used by both index.html and post.html.
 // You shouldn't need to touch this file — see posts.js to write.
 
-const SITE_TITLE = "TBD";
-const SITE_TAGLINE = "TBD.";
+const SITE_TITLE = "Logueum";
+const SITE_TAGLINE = "Truth towards self is my philosophy.";
+
+// The people who usually read your drafts before you publish.
+// Used automatically on every post, unless a post's own entry in
+// posts.js sets its own "draftReaders" list (see posts.js for how).
+const DEFAULT_DRAFT_READERS = [];
+
+function formatNameList(names) {
+  if (!names || names.length === 0) return "";
+  if (names.length === 1) return names[0];
+  if (names.length === 2) return `${names[0]} and ${names[1]}`;
+  return `${names.slice(0, -1).join(", ")}, and ${names[names.length - 1]}`;
+}
 
 function formatDate(iso) {
   const [y, m, d] = iso.split("-").map(Number);

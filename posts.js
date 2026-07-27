@@ -21,6 +21,21 @@
      > A line starting with "> " becomes a quoted line.
      ## A line starting with "## " becomes a subheading.
      *word* becomes italic. **word** becomes bold.
+
+   CREDITING YOUR DRAFT READERS
+   ------------------------------------------------------------
+   Every post automatically thanks your usual draft readers,
+   whose names are set once in app.js (look for
+   DEFAULT_DRAFT_READERS near the top — it's currently empty,
+   so add your usual readers there when ready).
+
+   If a specific post had different people read it, add a
+   "draftReaders" list to that post only, and it'll override the
+   default just for that one post:
+
+     draftReaders: ["Priya", "Arjun"],
+
+   Leave this line out entirely to just use the usual default group.
    ============================================================ */
 
 const POSTS = [

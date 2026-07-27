@@ -3,7 +3,7 @@
    Palette: fog-stone background, deep forest ink, dusted moss accent.
    ============================================================ */
 
-@import url('https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,500;0,7..72,600;1,7..72,400&family=IBM+Plex+Mono:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,500;0,7..72,600;1,7..72,400&family=IBM+Plex+Mono:wght@400;500&family=Noto+Serif+Tamil:wght@400;500&display=swap');
 
 :root {
   --bg: #EEF0EA;
@@ -47,6 +47,22 @@ body {
 }
 
 /* -------------------- Masthead -------------------- */
+
+.top-mark {
+  text-align: center;
+  color: var(--accent);
+  font-size: 10px;
+  letter-spacing: 0;
+  margin-bottom: 4px;
+}
+
+.top-motto {
+  text-align: center;
+  font-family: 'Noto Serif Tamil', 'Literata', serif;
+  font-size: 16px;
+  color: var(--ink-soft);
+  margin-bottom: 56px;
+}
 
 .masthead {
   margin-bottom: 88px;
@@ -214,6 +230,20 @@ body {
   margin-top: 64px;
   padding-top: 32px;
   border-top: 1px solid var(--line);
+}
+
+.essay-end .draft-thanks {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 12px;
+  letter-spacing: 0.02em;
+  color: var(--ink-soft);
+  margin: 0 0 16px;
+}
+
+.essay-end .thanks {
+  font-style: italic;
+  color: var(--ink-soft);
+  margin: 0 0 24px;
 }
 
 /* -------------------- Footer -------------------- */
