@@ -97,7 +97,7 @@ I lived almost my entire life with my mom. It's only for college that I was away
 **2. Had I experienced a variety of emotions with them?** 
 Since she is family, like any family, we went through all kinds of hardships and times of happiness together. So I was able to see her react to situations all throughout my life and based on that, I know she will listen to me.
 
-And throughout that much time and companionship, if they had proved to be credible to me, I would go on to confess.
+And throughout that much time and companionship, if they seemed credible to me, I would go on to confess.
 
 These are my filters. If you spend some time thinking about what those filters could be for you, you will definitely have some.
 
