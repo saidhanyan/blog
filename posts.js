@@ -45,7 +45,7 @@ const POSTS = [
    {
       slug: "smoke-and-mirrors-of-the-self",
       title: "Smoke & Mirrors of the Self",
-      date: "2026-07-06",
+      date: "2026-07-28",
       content: `
 Confession is by far one of the best relievers I've experienced in life. I'd define it as **"an act of relieving yourself from carrying and maintaining a synthesized image that even in the best cases is a partially true image"**.
 
