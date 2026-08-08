@@ -95,7 +95,8 @@ body {
 
 .masthead .tagline {
   margin-top: 16px;
-  color: var(--ink-soft);
+  /* color: var(--ink-soft); */
+  color: #3E4A3B;
   font-family: 'Lora', 'Literata', serif;
   font-style: italic;
   font-size: 17px;
