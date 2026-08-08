@@ -2,7 +2,11 @@
 // You shouldn't need to touch this file — see posts.js to write.
 
 const SITE_TITLE = "Logueum";
-const SITE_TAGLINE = "Truth towards self is my philosophy.";
+const SITE_TAGLINE = `Logueum is not officially a word. I invented it, accidentally. In English, logue means reason, discourse, speech, etc.. things that deal with words and meanings. 
+  
+  In Greek, -eum is a suffix used to name places. 
+  
+  I consider my blog a space for reasoning with oneself. Hence, Logueum. Welcome.`;
 
 // The people who usually read your drafts before you publish.
 // Used automatically on every post, unless a post's own entry in
