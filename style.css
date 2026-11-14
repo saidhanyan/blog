@@ -51,7 +51,7 @@ body {
 .top-mark {
   text-align: center;
   color: var(--accent);
-  font-size: 15px;
+  font-size: 10px;
   letter-spacing: 0;
   margin-bottom: 4px;
 }
