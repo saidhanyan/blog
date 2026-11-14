@@ -59,7 +59,7 @@ body {
 .top-motto {
   text-align: center;
   font-family: 'Noto Serif Tamil', 'Literata', serif;
-  font-size: 10px;
+  font-size: 25px;
   color: var(--ink-soft);
   margin-bottom: 56px;
 }
